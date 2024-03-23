@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.0fd5d27d.js",
+    "static/media/minassa.png": "/static/media/minassa.ab8326f3560b63745367.png",
+    "static/media/Inclusify.png": "/static/media/Inclusify.738b9bd654020b1525b6.png",
+    "static/media/PP.png": "/static/media/PP.f6263aa52a88b0733b6c.png",
+    "static/media/livmo.png": "/static/media/livmo.be7e96c7fdab08564125.png",
+    "static/media/canal.jpg": "/static/media/canal.27dcaa74687d5b1efb10.jpg",
+    "static/media/infenralgames.png": "/static/media/infenralgames.76d5c4c349d242661f96.png",
+    "static/media/FSB.png": "/static/media/FSB.7f04c607209a9c6b755d.png",
+    "static/media/esprit.jpg": "/static/media/esprit.83ed4a91e5bacc4953ae.jpg",
+    "static/media/milktrust.png": "/static/media/milktrust.d47bb98f90b9b5b527a3.png",
+    "static/media/ats-nobg.png": "/static/media/ats-nobg.3fb8fee24f455ca81337.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.0fd5d27d.js.map": "/static/js/main.0fd5d27d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.0fd5d27d.js"
+  ]
+}
